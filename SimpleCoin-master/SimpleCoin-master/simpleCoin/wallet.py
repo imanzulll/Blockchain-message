@@ -129,7 +129,7 @@ if __name__ == '__main__':
     print("""       =========================================\n
         SIMPLE COIN v1.0.0 - BLOCKCHAIN SYSTEM\n
        =========================================\n\n
-        You can find more help at: https://github.com/cosme12/SimpleCoin\n
+        Iman was here ^^.
         Make sure you are using the latest version or you may end in
         a parallel chain.\n\n\n""")
     wallet()
