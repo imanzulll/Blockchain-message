@@ -1,7 +1,3 @@
-# Contributing to SimpleCoin
-
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
-
 ## Pull Requests
 We actively welcome your pull requests.
 
@@ -15,6 +11,6 @@ We use GitHub issues to track public bugs. Please ensure your description is cle
 
 ## Important
 
-The idea of this project is to build a **really simple** blockchain system, so make sure all your code is easy to read (avoid too much code in 1 line) and don't introduce complex updates if they are not critical. In other words, keep it simple.
+This is a group project of some college students to understand blockchain. Don't use it for corporate purpose (unless you'd like to fail your business).
 
 Thank you for helping, and don't be afraid to contribute.
